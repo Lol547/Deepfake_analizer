@@ -66,8 +66,8 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/your-username/deepfake-detector.git
-cd deepfake-detector
+git clone https://github.com/Lol547/Deepfake_analizer.git
+cd Deepfake_analizer
 ```
 
 2. Установите зависимости (рекомендуется использовать виртуальное окружение):
@@ -135,8 +135,8 @@ print("Fake" if pred == 1 else "Real", prob)
 ---
 
 **Команда:**
-- **Кирилл Соколов** — архитектура EfficientNet, MBConv, SE, DropConnect, оптимизация пайплайна.
-- **Мария Начинова** — базовые CNN, частотный анализ, Focal Loss, EDA, подготовка датасета.
+- **Кирилл Соколов** - архитектура EfficientNet, MBConv, SE, DropConnect, оптимизация пайплайна.
+- **Мария Начинова** - базовые CNN, частотный анализ, Focal Loss, EDA, подготовка датасета.
 
 ---
 
