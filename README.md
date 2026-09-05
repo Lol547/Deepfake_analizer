@@ -142,6 +142,6 @@ print("Fake" if pred == 1 else "Real", prob)
 
 ## Контакты
 
-По вопросам или найденным ошибкам пишите: sokolovkirill489@gmail.com
+По вопросам или найденным ошибкам пишите: sokolovkirill489@gmail.com TG: @qqkiru
 
 ---
